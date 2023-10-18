@@ -5,6 +5,8 @@ export const App = () => {
     <div className="App">
       <h1>App</h1>
       <Jimbotron />
+      <Jimbotron />
+      <Jimbotron />
     </div>
   );
 };

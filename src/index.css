@@ -16,6 +16,7 @@ div.App {
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap: 1em;
 }
 
 div.App h1 {
@@ -24,7 +25,7 @@ div.App h1 {
 }
 
 .jimbotron {
-  padding: 1em 5em;
+  padding: 1em 10em;
   border: 1px solid black;
   background-color: rgb(2, 220, 220);
 }
