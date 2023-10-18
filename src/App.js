@@ -7,6 +7,7 @@ export const App = () => {
       <Jimbotron
         titleJimbotron="First Jumbotron"
         subTitleJimbotron="Passing props #1"
+        isFav={true}
       />
       <Jimbotron
         titleJimbotron="Second Jumbotron"
