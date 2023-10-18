@@ -18,6 +18,10 @@ div.App {
   align-items: center;
 }
 
+div.App h1 {
+  font-family: "Caveat", cursive;
+}
+
 .jimbotron {
   padding: 1em 5em;
   border: 1px solid black;
