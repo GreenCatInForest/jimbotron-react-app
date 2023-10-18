@@ -1,8 +1,10 @@
-export const Jimbotron = () => {
+export const Jimbotron = (props) => {
+  let titleJimbotron = props.titleJimbotron;
+  let subTitleJimbotron = props.subTitleJimbotron;
   return (
     <div className="jimbotron">
-      <h2 className="titleJimbotron">Title Jimbotron</h2>
-      <h3 className="subTitleJimbotron">SubTitle Jimbotron</h3>
+      <h2 className="titleJimbotron">{titleJimbotron}</h2>
+      <h3 className="subTitleJimbotron">{subTitleJimbotron}</h3>
     </div>
   );
 };
