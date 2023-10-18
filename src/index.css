@@ -20,9 +20,11 @@ div.App {
 
 div.App h1 {
   font-family: "Caveat", cursive;
+  font-size: 3em;
 }
 
 .jimbotron {
   padding: 1em 5em;
   border: 1px solid black;
+  background-color: rgb(2, 220, 220);
 }

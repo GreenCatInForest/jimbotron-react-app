@@ -1,8 +1,8 @@
 export const Jimbotron = () => {
   return (
     <div className="jimbotron">
-      <div className="titleJimbotron">Title Jimbotron</div>
-      <div className="subTitleJimbotron">SubTitle Jimbotron</div>
+      <h2 className="titleJimbotron">Title Jimbotron</h2>
+      <h3 className="subTitleJimbotron">SubTitle Jimbotron</h3>
     </div>
   );
 };
